@@ -1,26 +1,20 @@
-# Hi, I'm Zach Wilson! Welcome to my GitHub! 👋
+# Hi, I'm Marc Robertson! Welcome to my GitHub! 👋
 
-As a **Lecturer of Computer Science at Oakland City University**, I lead the Computer Science, Cybersecurity, and Information Technology programs while teaching a diverse range of undergraduate and graduate courses. I am passionate about integrating current research and industry trends into my teaching, fostering inclusive learning environments, and preparing students for successful careers in technology.
+As a **Student of Oakland City University**, I lead the Computer Science, Cybersecurity, and Information Technology programs while teaching a diverse range of undergraduate and graduate courses. I am passionate about integrating current research and industry trends into my teaching, fostering inclusive learning environments, and preparing students for successful careers in technology.
 
-Beyond the classroom, I serve as **Communications Committee Chair and Webmaster for IEEE Region 4**, where I lead regional communication strategy and maintain the digital presence for one of IEEE's largest geographic regions. I also founded **Wilson's Media LLC**, providing consulting services in IT, data analytics, and business operations.
+Beyond the classroom, I serve as **Student Ambassador**, where I lead regional communication strategy and maintain the digital presence for one of IEEE's largest geographic regions. I also founded **Wilson's Media LLC**, providing consulting services in IT, data analytics, and business operations.
 
 I am committed to advancing computer science education, contributing to academic discourse through peer review and publications, and bridging the gap between academia and industry practice.
 
 ## 🎓 Education
 
-**EdD in Organizational Management** (In Progress, Expected May 2029)  
-Oakland City University
+**Bachelor of Science in Computer Science with Minor in Creative Technologies** (In Progress, Expected May 2026)  
+Oakland City University - Oakland City, IN
 
-**Master of Science in Information and Communication Sciences** (December 2025)  
-Ball State University
+**Associate of Science** (May 2024)  
+Kankakee Community College - Kankakee, IL
 
-**Master of Business Administration** (December 2024)  
-Ball State University
-
-**Bachelor of Science in Computer Science** (May 2023)  
-Indiana University–Purdue University Indianapolis
-
-My interdisciplinary background spanning computer science, business administration, information systems, and organizational management provides a unique perspective on technology's role in modern organizations and society.
+My interdisciplinary background spanning computer science, creative technologies, information systems, and computer processing provides a unique perspective on technology's role in modern organizations and society.
 
 ## 👨‍🏫 Teaching Experience
 
