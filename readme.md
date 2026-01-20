@@ -61,7 +61,7 @@ I believe learning is an ongoing process driven by curiosity, consistency, and h
 ---
 
 <p align="center">
-  <i>Committed to excellence in computer science education | IEEE Senior Member | Lifelong learner | Bridging academia and industry</i>
+  <i>Committed to excellence in computer science | Lifelong learner</i>
 </p>
 
 <p align="center">
