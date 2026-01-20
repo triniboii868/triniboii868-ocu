@@ -43,7 +43,7 @@ My interdisciplinary background spanning computer science, creative technologies
 
 I'm always happy to connect with fellow students, educators, researchers, and professionals in the tech community!
 
-[![Email](https://img.shields.io/badge/University%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:robertsonmarc@myocu.oak.edu?subject=GitHub%20Contact)
+[![Email](https://img.shields.io/badge/-University%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:robertsonmarc@myocu.oak.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcrobertson/)
 
 ## 💡 Learning Philosophy
