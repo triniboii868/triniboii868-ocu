@@ -52,7 +52,7 @@ I'm always happy to connect with fellow students, educators, researchers, and pr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triniboii868&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=triniboii868&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=triniboii868&theme=radical)
 
 ## 💡 Learning Philosophy
 
