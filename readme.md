@@ -46,6 +46,14 @@ I'm always happy to connect with fellow students, educators, researchers, and pr
 [![Email](https://img.shields.io/badge/-University%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:robertsonmarc@myocu.oak.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcrobertson/)
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zachwilson-ocu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachwilson-ocu&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachwilson-ocu&theme=tokyonight&hide_border=true)
+
 ## 💡 Learning Philosophy
 
 I believe learning is an ongoing process driven by curiosity, consistency, and hands-on experience. I focus on understanding concepts at a deeper level rather than memorizing solutions, and I learn best by building, testing, and improving through real-world practice. Challenges and mistakes are part of growth, not setbacks. I use feedback and iteration to refine my thinking and skills, while staying adaptable and open to new ideas. My goal is continuous improvement and creating meaningful, well-thought-out solutions.
