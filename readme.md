@@ -1,6 +1,6 @@
 # Hi, I'm Marc Robertson! Welcome to my GitHub! 👋
 
-As a **Student of Oakland City University**, I  programs while teaching a diverse range of undergraduate and graduate courses. I am passionate about integrating current research and industry trends into my teaching, fostering inclusive learning environments, and preparing students for successful careers in technology.
+As a **Student of Oakland City University**, I am currently completing my undergraduate courses to attain my Bachelor's in Computer Science. I am passionate to be exposed to learn new modes on programming, working on helpful projects which can be accessed by and collaborated with other developers. I have a special interest in software development and intend on having a career in that field post-graduation, in addition I love physical computing as I love having a hands-on experience while dealing with hardware and software.
 
 Beyond the classroom, I serve as **IT Helpdesk Student Worker**, where I help troubleshoot errors and present ready solutions for my colleagues and other employees at the university.  I also server as a **Student Ambassador**, providing prospect students a full experience of the culture and student life at Oakland City University while contributing to the student life experiences. 
 
@@ -60,12 +60,9 @@ I believe learning is an ongoing process driven by curiosity, consistency, and h
 
 ## 🎯 Current Focus
 
-- Leading Computer Science, Cybersecurity, and IT programs at Oakland City University
-- Conducting research on AI applications in higher education
-- Developing innovative curriculum materials for programming and web development courses
-- Contributing to IEEE technical community and educational initiatives
-- Pursuing doctoral research in organizational management and technology leadership
-
+- Learning Computer Science, Creative Technologies, and IT Helpdesk services at Oakland City University
+- Developing senior capstone project while improving past projects
+  
 ---
 
 <p align="center">
